@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 :root {
     --bg-color: #8f0847;
     --primary-color: #ffffff;
-    --secondary-color: #6e4dff;
-    --font: "Passion One", sans-serif;
+    --secondary-color: #ff65a0;
+    --font: "Bebas Neue", sans-serif;
 }
 
 body {
@@ -37,14 +37,14 @@ nav a {
     text-decoration: none;
     color: var(--bg-color);
     margin: 0 2rem 1rem 0rem;
-    font-size: 1.2rem;
-}@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+    font-size: 1.3rem;
+}@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 :root {
     --bg-color: #8f0847;
     --primary-color: #ffffff;
-    --secondary-color: #6e4dff;
-    --font: "Passion One", sans-serif;
+    --secondary-color: #ff65a0;
+    --font: "Bebas Neue", sans-serif;
 }
 
 body {
@@ -62,7 +62,7 @@ header {
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 3rem;
     color: var(--bg-color);
     font-weight: 700;
 }
@@ -72,7 +72,7 @@ nav {
     justify-content: center;
     font-weight: 400;
     transform: scale(0.90);
-    transition: transform 0.1s;
+    transition: transform(0.2s);
 }
 
 .graficos-container {
@@ -101,3 +101,4 @@ footer {
     height: 3rem;
     margin-top: 2rem;
 }
+
